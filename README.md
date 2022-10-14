@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Programing 
 - 🌱 I’m currently learning Godot and Unity engine
 - 💞️ I’m looking to collaborate on 2D or 3D artist
-- 📫 How to reach me kazekageryan22@gmail.com 
+- 📫 Reach me on email : kazekageryan22@gmail.com 
 
 <!---
 codename-12/codename-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
