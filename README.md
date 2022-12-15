@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @codename-12
-- 👀 I’m interested in Game Programing 
-- 🌱 I’m currently learning Godot and Unity engine
-- 💞️ I’m looking to collaborate on 2D or 3D artist
+- 👀 I’m interested in Game Programing and Web programing
+- 🌱 I’m currently learning Godot, Unity engine and laravel with boostrap 5  
 - 📫 Reach me on email : kazekageryan22@gmail.com 
 
 <!---
