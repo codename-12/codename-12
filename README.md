@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codename-12
+- 👋 Hi, I’m Ryan Hidayat
 - 👀 I’m interested in Game Programing and Web programing
 - 🌱 I’m currently learning Godot, Unity engine and laravel with Ajax 
 - 📫 Reach me on email : kazekageryan22@gmail.com 
