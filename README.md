@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ryan Hidayat
 - 👀 I’m interested in Game Programing and Web programing
-- 🌱 I’m currently learning Godot, Unity engine and laravel with Ajax 
-- 📫 Reach me on email : kazekageryan22@gmail.com 
+- 🌱 I’m currently learning Godot and laravel 
+- 📫 Reach me on email : ryanhidayat22701@gmail.com 
 
 <!---
 codename-12/codename-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
