@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Hidayat
 - 👀 I’m interested in Game Programing and Web programing
-- 🌱 I’m currently learning Godot and laravel 
+- 🌱 I’m currently learning Using TALL Stack and Godot Engine
 - 📫 Reach me on email : ryanhidayat22701@gmail.com 
 
 <!---
